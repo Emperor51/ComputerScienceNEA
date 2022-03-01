@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\archi\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\archi\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_.19.00" t="ExcludeRecursive" />
+    <e p="C:\Users\archi\AppData\Roaming\JetBrains\Rider2020.3\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\archi\RiderProjects\Computer-Science\NEA FINAL\Computer Science NEA FINAL\Computer Science NEA FINAL" t="IncludeRecursive">
+      <e p="AddIncident.cs" t="Include" />
+      <e p="AddIncident.Designer.cs" t="Include" />
+      <e p="AddIncident.resx" t="Include" />
+      <e p="bin" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.1" t="Include">
+            <e p="Computer Science NEA FINAL.deps.json" t="Include" />
+            <e p="Computer Science NEA FINAL.runtimeconfig.dev.json" t="Include" />
+            <e p="Computer Science NEA FINAL.runtimeconfig.json" t="Include" />
+            <e p="EntityFramework.dll" t="Include" />
+            <e p="EntityFramework.SqlServer.dll" t="Include" />
+            <e p="FoodInfo.txt" t="Include" />
+            <e p="GMap.NET.Core.dll" t="Include" />
+            <e p="NEA Final Project.deps.json" t="Include" />
+            <e p="NEA Final Project.dll" t="Include" />
+            <e p="NEA Final Project.exe" t="Include" />
+            <e p="NEA Final Project.pdb" t="Include" />
+            <e p="NEA Final Project.runtimeconfig.dev.json" t="Include" />
+            <e p="NEA Final Project.runtimeconfig.json" t="Include" />
+            <e p="NEA-Database.sqlite" t="Include" />
+            <e p="Newtonsoft.Json.dll" t="Include" />
+            <e p="runtimes" t="Include">
+              <e p="linux-x64" t="Include">
+                <e p="native" t="Include">
+                  <e p="SQLite.Interop.dll" t="Include" />
+                </e>
+              </e>
+              <e p="osx-x64" t="Include">
+                <e p="native" t="Include">
+                  <e p="SQLite.Interop.dll" t="Include" />
+                </e>
+              </e>
+              <e p="unix" t="Include">
+                <e p="lib" t="Include">
+                  <e p="netcoreapp2.1" t="Include">
+                    <e p="System.Data.SqlClient.dll" t="Include" />
+                  </e>
+                </e>
+              </e>
+              <e p="win" t="Include">
+                <e p="lib" t="Include">
+                  <e p="netcoreapp2.1" t="Include">
+                    <e p="System.Data.SqlClient.dll" t="Include" />
+                  </e>
+                </e>
+              </e>
+              <e p="win-arm64" t="Include">
+                <e p="native" t="Include">
+                  <e p="sni.dll" t="Include" />
+                </e>
+              </e>
+              <e p="win-x64" t="Include">
+                <e p="native" t="Include">
+                  <e p="sni.dll" t="Include" />
+                  <e p="SQLite.Interop.dll" t="Include" />
+                </e>
+              </e>
+              <e p="win-x86" t="Include">
+                <e p="native" t="Include">
+                  <e p="sni.dll" t="Include" />
+                  <e p="SQLite.Interop.dll" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="Syncfusion.Core.WinForms.dll" t="Include" />
+            <e p="Syncfusion.Licensing.dll" t="Include" />
+            <e p="Syncfusion.Shared.Base.dll" t="Include" />
+            <e p="System.Data.SqlClient.dll" t="Include" />
+            <e p="System.Data.SQLite.dll" t="Include" />
+            <e p="System.Data.SQLite.EF6.dll" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="BlogForm.cs" t="Include" />
+      <e p="BlogForm.Designer.cs" t="Include" />
+      <e p="BlogForm.resx" t="Include" />
+      <e p="Camp Editor.cs" t="Include" />
+      <e p="Camp Editor.Designer.cs" t="Include" />
+      <e p="Camp Editor.resx" t="Include" />
+      <e p="CubDetailsFormLeaders.cs" t="Include" />
+      <e p="CubDetailsFormLeaders.Designer.cs" t="Include" />
+      <e p="CubDetailsFormLeaders.resx" t="Include" />
+      <e p="FoodMenuEditor.cs" t="Include" />
+      <e p="FoodMenuEditor.Designer.cs" t="Include" />
+      <e p="FoodMenuEditor.resx" t="Include" />
+      <e p="Form1.cs" t="Include" />
+      <e p="Form1.Designer.cs" t="Include" />
+      <e p="Form1.resx" t="Include" />
+      <e p="FormProvider.cs" t="Include" />
+      <e p="GalleryForm.cs" t="Include" />
+      <e p="GalleryForm.Designer.cs" t="Include" />
+      <e p="GalleryForm.resx" t="Include" />
+      <e p="InputBox.cs" t="Include" />
+      <e p="InputBox.Designer.cs" t="Include" />
+      <e p="InputBox.resx" t="Include" />
+      <e p="ItineraryForm.cs" t="Include" />
+      <e p="ItineraryForm.Designer.cs" t="Include" />
+      <e p="ItineraryForm.resx" t="Include" />
+      <e p="LeadersForm.cs" t="Include" />
+      <e p="LeadersForm.Designer.cs" t="Include" />
+      <e p="LeadersForm.resx" t="Include" />
+      <e p="LocationForm.cs" t="Include" />
+      <e p="LocationForm.Designer.cs" t="Include" />
+      <e p="LocationForm.resx" t="Include" />
+      <e p="Login Menu.cs" t="Include" />
+      <e p="Login Menu.Designer.cs" t="Include" />
+      <e p="Login Menu.resx" t="Include" />
+      <e p="Main Menu.cs" t="Include" />
+      <e p="Main Menu.Designer.cs" t="Include" />
+      <e p="Main Menu.resx" t="Include" />
+      <e p="MedicalForm.cs" t="Include" />
+      <e p="MedicalForm.Designer.cs" t="Include" />
+      <e p="MedicalForm.resx" t="Include" />
+      <e p="Menu Form.cs" t="Include" />
+      <e p="Menu Form.Designer.cs" t="Include" />
+      <e p="Menu Form.resx" t="Include" />
+      <e p="NEA Final Project.csproj" t="IncludeRecursive" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.1" t="Include">
+            <e p="NEA Final Project.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="PastCampsForm.cs" t="Include" />
+      <e p="PastCampsForm.Designer.cs" t="Include" />
+      <e p="PastCampsForm.resx" t="Include" />
+      <e p="Person.cs" t="Include" />
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="Resources.Designer.cs" t="Include" />
+        <e p="Resources.resx" t="Include" />
+      </e>
+      <e p="Resources" t="Include">
+        <e p="Scout Main Menu.png" t="Include" />
+      </e>
+      <e p="SixesForm.cs" t="Include" />
+      <e p="SixesForm.Designer.cs" t="Include" />
+      <e p="SixesForm.resx" t="Include" />
+      <e p="User Creation Menu.cs" t="Include" />
+      <e p="User Creation Menu.Designer.cs" t="Include" />
+      <e p="User Creation Menu.resx" t="Include" />
+    </e>
+  </component>
+</project>

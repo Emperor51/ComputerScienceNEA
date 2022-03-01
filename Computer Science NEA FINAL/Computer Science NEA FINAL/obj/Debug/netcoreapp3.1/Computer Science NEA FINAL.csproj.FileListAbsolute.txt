@@ -1,0 +1,49 @@
+C:\Users\archi\source\repos\Emperor51\Computer-Science\NEA FINAL\Computer Science NEA FINAL\Computer Science NEA FINAL\bin\Debug\netcoreapp3.1\Computer Science NEA FINAL.exe
+C:\Users\archi\source\repos\Emperor51\Computer-Science\NEA FINAL\Computer Science NEA FINAL\Computer Science NEA FINAL\bin\Debug\netcoreapp3.1\Computer Science NEA FINAL.deps.json
+C:\Users\archi\source\repos\Emperor51\Computer-Science\NEA FINAL\Computer Science NEA FINAL\Computer Science NEA FINAL\bin\Debug\netcoreapp3.1\Computer Science NEA FINAL.runtimeconfig.json
+C:\Users\archi\source\repos\Emperor51\Computer-Science\NEA FINAL\Computer Science NEA FINAL\Computer Science NEA FINAL\bin\Debug\netcoreapp3.1\Computer Science NEA FINAL.runtimeconfig.dev.json
+C:\Users\archi\source\repos\Emperor51\Computer-Science\NEA FINAL\Computer Science NEA FINAL\Computer Science NEA FINAL\bin\Debug\netcoreapp3.1\Computer Science NEA FINAL.dll
+C:\Users\archi\source\repos\Emperor51\Computer-Science\NEA FINAL\Computer Science NEA FINAL\Computer Science NEA FINAL\bin\Debug\netcoreapp3.1\Computer Science NEA FINAL.pdb
+C:\Users\archi\source\repos\Emperor51\Computer-Science\NEA FINAL\Computer Science NEA FINAL\Computer Science NEA FINAL\obj\Debug\netcoreapp3.1\Computer Science NEA FINAL.csprojAssemblyReference.cache
+C:\Users\archi\source\repos\Emperor51\Computer-Science\NEA FINAL\Computer Science NEA FINAL\Computer Science NEA FINAL\obj\Debug\netcoreapp3.1\Computer_Science_NEA_FINAL.Form1.resources
+C:\Users\archi\source\repos\Emperor51\Computer-Science\NEA FINAL\Computer Science NEA FINAL\Computer Science NEA FINAL\obj\Debug\netcoreapp3.1\Computer_Science_NEA_FINAL.Login_Menu.resources
+C:\Users\archi\source\repos\Emperor51\Computer-Science\NEA FINAL\Computer Science NEA FINAL\Computer Science NEA FINAL\obj\Debug\netcoreapp3.1\Computer Science NEA FINAL.csproj.GenerateResource.cache
+C:\Users\archi\source\repos\Emperor51\Computer-Science\NEA FINAL\Computer Science NEA FINAL\Computer Science NEA FINAL\obj\Debug\netcoreapp3.1\Computer Science NEA FINAL.AssemblyInfoInputs.cache
+C:\Users\archi\source\repos\Emperor51\Computer-Science\NEA FINAL\Computer Science NEA FINAL\Computer Science NEA FINAL\obj\Debug\netcoreapp3.1\Computer Science NEA FINAL.AssemblyInfo.cs
+C:\Users\archi\source\repos\Emperor51\Computer-Science\NEA FINAL\Computer Science NEA FINAL\Computer Science NEA FINAL\obj\Debug\netcoreapp3.1\Computer Science NEA FINAL.dll
+C:\Users\archi\source\repos\Emperor51\Computer-Science\NEA FINAL\Computer Science NEA FINAL\Computer Science NEA FINAL\obj\Debug\netcoreapp3.1\Computer Science NEA FINAL.pdb
+C:\Users\archi\source\repos\Emperor51\Computer-Science\NEA FINAL\Computer Science NEA FINAL\Computer Science NEA FINAL\obj\Debug\netcoreapp3.1\Computer Science NEA FINAL.genruntimeconfig.cache
+C:\Users\archi\source\repos\Emperor51\Computer-Science\NEA FINAL\Computer Science NEA FINAL\Computer Science NEA FINAL\obj\Debug\netcoreapp3.1\Computer_Science_NEA_FINAL.Properties.Resources.resources
+C:\Users\archi\source\repos\Emperor51\Computer-Science\NEA FINAL\Computer Science NEA FINAL\Computer Science NEA FINAL\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\archi\source\repos\Emperor51\Computer-Science\NEA FINAL\Computer Science NEA FINAL\Computer Science NEA FINAL\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\archi\source\repos\Emperor51\Computer-Science\NEA FINAL\Computer Science NEA FINAL\Computer Science NEA FINAL\bin\Debug\netcoreapp3.1\System.Data.SQLite.dll
+C:\Users\archi\source\repos\Emperor51\Computer-Science\NEA FINAL\Computer Science NEA FINAL\Computer Science NEA FINAL\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\archi\source\repos\Emperor51\Computer-Science\NEA FINAL\Computer Science NEA FINAL\Computer Science NEA FINAL\bin\Debug\netcoreapp3.1\System.Data.SQLite.EF6.dll
+C:\Users\archi\source\repos\Emperor51\Computer-Science\NEA FINAL\Computer Science NEA FINAL\Computer Science NEA FINAL\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\archi\source\repos\Emperor51\Computer-Science\NEA FINAL\Computer Science NEA FINAL\Computer Science NEA FINAL\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\archi\source\repos\Emperor51\Computer-Science\NEA FINAL\Computer Science NEA FINAL\Computer Science NEA FINAL\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\archi\source\repos\Emperor51\Computer-Science\NEA FINAL\Computer Science NEA FINAL\Computer Science NEA FINAL\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\archi\source\repos\Emperor51\Computer-Science\NEA FINAL\Computer Science NEA FINAL\Computer Science NEA FINAL\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\archi\source\repos\Emperor51\Computer-Science\NEA FINAL\Computer Science NEA FINAL\Computer Science NEA FINAL\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\archi\source\repos\Emperor51\Computer-Science\NEA FINAL\Computer Science NEA FINAL\Computer Science NEA FINAL\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\archi\source\repos\Emperor51\Computer-Science\NEA FINAL\Computer Science NEA FINAL\Computer Science NEA FINAL\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\archi\source\repos\Emperor51\Computer-Science\NEA FINAL\Computer Science NEA FINAL\Computer Science NEA FINAL\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\archi\source\repos\Emperor51\Computer-Science\NEA FINAL\Computer Science NEA FINAL\Computer Science NEA FINAL\obj\Debug\netcoreapp3.1\Computer Science NEA FINAL.csproj.CopyComplete
+C:\Users\archi\Source\Repos\Emperor51\Computer-Science\NEA FINAL\Computer Science NEA FINAL\Computer Science NEA FINAL\obj\Debug\netcoreapp3.1\Computer_Science_NEA_FINAL.Main_Menu.resources
+C:\Users\archi\Source\Repos\Emperor51\Computer-Science\NEA FINAL\Computer Science NEA FINAL\Computer Science NEA FINAL\obj\Debug\netcoreapp3.1\Computer_Science_NEA_FINAL.Camp_Editor.resources
+C:\Users\archi\Source\Repos\Emperor51\Computer-Science\NEA FINAL\Computer Science NEA FINAL\Computer Science NEA FINAL\bin\Debug\netcoreapp3.1\Syncfusion.Core.WinForms.dll
+C:\Users\archi\Source\Repos\Emperor51\Computer-Science\NEA FINAL\Computer Science NEA FINAL\Computer Science NEA FINAL\bin\Debug\netcoreapp3.1\Syncfusion.Licensing.dll
+C:\Users\archi\Source\Repos\Emperor51\Computer-Science\NEA FINAL\Computer Science NEA FINAL\Computer Science NEA FINAL\bin\Debug\netcoreapp3.1\Syncfusion.Shared.Base.dll
+C:\Users\archi\Source\Repos\Emperor51\Computer-Science\NEA FINAL\Computer Science NEA FINAL\Computer Science NEA FINAL\obj\Debug\netcoreapp3.1\Computer_Science_NEA_FINAL.Resources.BlogForm.resources
+C:\Users\archi\Source\Repos\Emperor51\Computer-Science\NEA FINAL\Computer Science NEA FINAL\Computer Science NEA FINAL\obj\Debug\netcoreapp3.1\Computer_Science_NEA_FINAL.Resources.GarlleryForm.resources
+C:\Users\archi\Source\Repos\Emperor51\Computer-Science\NEA FINAL\Computer Science NEA FINAL\Computer Science NEA FINAL\obj\Debug\netcoreapp3.1\Computer_Science_NEA_FINAL.Resources.ItineraryForm.resources
+C:\Users\archi\Source\Repos\Emperor51\Computer-Science\NEA FINAL\Computer Science NEA FINAL\Computer Science NEA FINAL\obj\Debug\netcoreapp3.1\Computer_Science_NEA_FINAL.Resources.LeadersForm.resources
+C:\Users\archi\Source\Repos\Emperor51\Computer-Science\NEA FINAL\Computer Science NEA FINAL\Computer Science NEA FINAL\obj\Debug\netcoreapp3.1\Computer_Science_NEA_FINAL.Resources.LocationForm.resources
+C:\Users\archi\Source\Repos\Emperor51\Computer-Science\NEA FINAL\Computer Science NEA FINAL\Computer Science NEA FINAL\obj\Debug\netcoreapp3.1\Computer_Science_NEA_FINAL.Resources.MedicalForm.resources
+C:\Users\archi\Source\Repos\Emperor51\Computer-Science\NEA FINAL\Computer Science NEA FINAL\Computer Science NEA FINAL\obj\Debug\netcoreapp3.1\Computer_Science_NEA_FINAL.Resources.Menu_Form.resources
+C:\Users\archi\Source\Repos\Emperor51\Computer-Science\NEA FINAL\Computer Science NEA FINAL\Computer Science NEA FINAL\obj\Debug\netcoreapp3.1\Computer_Science_NEA_FINAL.Resources.SixesForm.resources
+C:\Users\archi\Source\Repos\Emperor51\Computer-Science\NEA FINAL\Computer Science NEA FINAL\Computer Science NEA FINAL\obj\Debug\netcoreapp3.1\Computer_Science_NEA_FINAL.CubDetailsFormLeaders.resources
+C:\Users\archi\Source\Repos\Emperor51\Computer-Science\NEA FINAL\Computer Science NEA FINAL\Computer Science NEA FINAL\obj\Debug\netcoreapp3.1\Computer_Science_NEA_FINAL.PastCampsForm.resources
+C:\Users\archi\source\repos\Emperor51\Computer-Science\NEA FINAL\Computer Science NEA FINAL\Computer Science NEA FINAL\bin\Debug\netcoreapp3.1\GMap.NET.Core.dll
+C:\Users\archi\source\repos\Emperor51\Computer-Science\NEA FINAL\Computer Science NEA FINAL\Computer Science NEA FINAL\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\archi\source\repos\Emperor51\Computer-Science\NEA FINAL\Computer Science NEA FINAL\Computer Science NEA FINAL\obj\Debug\netcoreapp3.1\Computer Science NEA FINAL.csproj.CoreCompileInputs.cache

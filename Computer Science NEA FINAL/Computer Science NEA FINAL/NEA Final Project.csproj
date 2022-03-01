@@ -1,0 +1,72 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Computer_Science_NEA_FINAL</RootNamespace>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Update="User Creation Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddIncident.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InputBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Data.SQLite" Version="1.0.113.7" />
+    <PackageReference Include="System.Drawing.Common" Version="5.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="bin\Debug\netcoreapp3.1\Computer Science NEA FINAL.deps.json" />
+    <Content Include="bin\Debug\netcoreapp3.1\Computer Science NEA FINAL.runtimeconfig.dev.json" />
+    <Content Include="bin\Debug\netcoreapp3.1\Computer Science NEA FINAL.runtimeconfig.json" />
+    <Content Include="bin\Debug\netcoreapp3.1\EntityFramework.dll" />
+    <Content Include="bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll" />
+    <Content Include="bin\Debug\netcoreapp3.1\FoodInfo.txt" />
+    <Content Include="bin\Debug\netcoreapp3.1\GMap.NET.Core.dll" />
+    <Content Include="bin\Debug\netcoreapp3.1\NEA Final Project.deps.json" />
+    <Content Include="bin\Debug\netcoreapp3.1\NEA Final Project.dll" />
+    <Content Include="bin\Debug\netcoreapp3.1\NEA Final Project.exe" />
+    <Content Include="bin\Debug\netcoreapp3.1\NEA Final Project.pdb" />
+    <Content Include="bin\Debug\netcoreapp3.1\NEA Final Project.runtimeconfig.dev.json" />
+    <Content Include="bin\Debug\netcoreapp3.1\NEA Final Project.runtimeconfig.json" />
+    <Content Include="bin\Debug\netcoreapp3.1\NEA-Database.sqlite" />
+    <Content Include="bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll" />
+    <Content Include="bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\SQLite.Interop.dll" />
+    <Content Include="bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\SQLite.Interop.dll" />
+    <Content Include="bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll" />
+    <Content Include="bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll" />
+    <Content Include="bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll" />
+    <Content Include="bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SQLite.Interop.dll" />
+    <Content Include="bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll" />
+    <Content Include="bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SQLite.Interop.dll" />
+    <Content Include="bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll" />
+    <Content Include="bin\Debug\netcoreapp3.1\Syncfusion.Core.WinForms.dll" />
+    <Content Include="bin\Debug\netcoreapp3.1\Syncfusion.Licensing.dll" />
+    <Content Include="bin\Debug\netcoreapp3.1\Syncfusion.Shared.Base.dll" />
+    <Content Include="bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll" />
+    <Content Include="bin\Debug\netcoreapp3.1\System.Data.SQLite.dll" />
+    <Content Include="bin\Debug\netcoreapp3.1\System.Data.SQLite.EF6.dll" />
+  </ItemGroup>
+
+</Project>

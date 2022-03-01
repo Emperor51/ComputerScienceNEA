@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/projectSettingsUpdater.xml
+/modules.xml
+/.idea.Computer Science NEA FINAL.iml
+# Datasource local storage ignored files
+/../../../../../../../../../../:\Users\archi\RiderProjects\Computer-Science\NEA FINAL\Computer Science NEA FINAL\.idea\.idea.Computer Science NEA FINAL\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
